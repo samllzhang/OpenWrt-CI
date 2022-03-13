@@ -793,13 +793,6 @@ jobs:
           CONFIG_PACKAGE_iptables=y
           CONFIG_PACKAGE_iptables-mod-fullconenat=y
           CONFIG_PACKAGE_miniupnpd=y
-          CONFIG_PACKAGE_avahi-autoipd=y
-          CONFIG_PACKAGE_avahi-daemon-service-http=y
-          CONFIG_PACKAGE_avahi-daemon-service-ssh=y
-          CONFIG_PACKAGE_avahi-dbus-daemon=y
-          CONFIG_PACKAGE_avahi-dnsconfd=y
-          CONFIG_PACKAGE_avahi-nodbus-daemon=y
-          CONFIG_PACKAGE_avahi-utils=y
           CONFIG_PACKAGE_ddns-scripts=y
           CONFIG_PACKAGE_ddns-scripts_aliyun=y
           CONFIG_PACKAGE_ddns-scripts_dnspod=y
